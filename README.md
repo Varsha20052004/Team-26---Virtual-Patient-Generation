@@ -1,1 +1,1 @@
-Develop Generative models that can be used to create synthetic patient and healthcare data, which can be useful for simulating clinical trials, or studying rare diseases without access to large real-world datasets.
+
